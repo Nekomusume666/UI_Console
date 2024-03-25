@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\UI_Console\UI_Console\bin\Debug\UI_Console.exe.config
+C:\Users\Admin\source\repos\UI_Console\UI_Console\bin\Debug\UI_Console.exe
+C:\Users\Admin\source\repos\UI_Console\UI_Console\bin\Debug\UI_Console.pdb
+C:\Users\Admin\source\repos\UI_Console\UI_Console\obj\Debug\UI_Console.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UI_Console\UI_Console\obj\Debug\UI_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\UI_Console\UI_Console\obj\Debug\UI_Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UI_Console\UI_Console\obj\Debug\UI_Console.exe
+C:\Users\Admin\source\repos\UI_Console\UI_Console\obj\Debug\UI_Console.pdb
